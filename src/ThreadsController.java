@@ -31,8 +31,8 @@ public class ThreadsController extends Thread {
 	 
          
          void son(){
-            //java.awt.Toolkit.getDefaultToolkit().beep();
-             System.out.flush();
+            java.awt.Toolkit.getDefaultToolkit().beep();
+//             System.out.flush();
          }
          
 	 //Important part :
