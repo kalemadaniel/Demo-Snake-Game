@@ -23,8 +23,9 @@ Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le v
 
 ## Auteurs
 le(s) auteur(s) du projet est(sont) :
+* **Yassin hexadeciman** _alias_ [@hexadeciman](https://github.com/hexadeciman)
 * **Kalema daniel jonathan** _alias_ [@kalemadaniel](https://github.com/kalemadaniel)
-* **Yassin hexadeciman**
+
 
 ## License
 
