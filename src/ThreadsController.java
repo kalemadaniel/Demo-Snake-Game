@@ -6,7 +6,7 @@ public class ThreadsController extends Thread {
 	 ArrayList<ArrayList<DataOfSquare>> Squares= new ArrayList<ArrayList<DataOfSquare>>();
 	 Tuple headSnakePos;
 	 int sizeSnake=3;
-	 long speed = 50;
+	 long speed = 100;
 	 public static int directionSnake ;
 
 	 ArrayList<Tuple> positions = new ArrayList<Tuple>();
@@ -29,6 +29,11 @@ public class ThreadsController extends Thread {
 
 	 }
 	 
+         
+         void son(){
+            java.awt.Toolkit.getDefaultToolkit().beep();
+         }
+         
 	 //Important part :
 	 public void run() {
 		 while(true){
@@ -61,17 +66,17 @@ public class ThreadsController extends Thread {
 		 
 		 boolean eatingFood = posCritique.getX()==foodPosition.y && posCritique.getY()==foodPosition.x;
 		 if(eatingFood){
-			 System.out.println("Yummy!");
+			 System.out.println("yes mina kula !");
+                         son();
 			 sizeSnake=sizeSnake+1;
 			 	foodPosition = getValAleaNotInSnake();
-
 			 spawnFood(foodPosition);	
 		 }
 	 }
 	 
 	 //Stops The Game
 	 private void stopTheGame(){
-		 System.out.println("COLISION! \n");
+		 System.out.println("ahhh mina kufa! \n");
 		 while(true){
 			 pauser();
 		 }
