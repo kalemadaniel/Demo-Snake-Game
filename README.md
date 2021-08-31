@@ -25,3 +25,6 @@ Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le v
 le(s) auteur(s) du projet est(sont) :
 * **Kalema daniel jonathan** _alias_ [@kalemadaniel](https://github.com/kalemadaniel)
 
+## License
+
+Ce projet est sous licence **``open source``** 
