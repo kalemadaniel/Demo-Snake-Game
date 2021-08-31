@@ -21,3 +21,7 @@ Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le v
 
 **Dernière version stable :** 1.0
 
+## Auteurs
+le(s) auteur(s) du projet est(sont) :
+* **Kalema daniel jonathan** _alias_ [@kalemadaniel](https://github.com/kalemadaniel)
+
