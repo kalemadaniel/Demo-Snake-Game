@@ -1,1 +1,2 @@
 # Demo-Snake-Game
+## Principe
