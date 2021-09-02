@@ -5,7 +5,7 @@ Ce jeux de serpent est facile à contrôler et amusant pour les joueurs de tous 
 
 ## Pré-requis
 
-Ce qui est important pour contribuer au dévéloppement de ce projet :
+Ce qui est nécessaire pour contribuer au dévéloppement de ce projet :
 
 - Netbeans (https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 
@@ -22,6 +22,7 @@ Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le v
 **Dernière version stable :** 1.0
 
 ## Auteurs
+
 les auteurs du projet sont :
 * **Yassin hexadeciman** _alias_ [@hexadeciman](https://github.com/hexadeciman)
 * **Kalema daniel jonathan** _alias_ [@kalemadaniel](https://github.com/kalemadaniel)
