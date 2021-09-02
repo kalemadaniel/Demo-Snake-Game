@@ -19,6 +19,7 @@ J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et d
 ## les améliorations à faires 
 - Au fil du temps, le serpent s'allongera, il faut envisager de jouer en level 
 - le level peu faire à ce que le jeux se joue en speed
+- Restez en vie et collecter plus de points. 
 
 
 ## Versions
