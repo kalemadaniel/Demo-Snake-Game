@@ -20,6 +20,7 @@ J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et d
 - Au fil du temps, le serpent s'allongera, il faut envisager de jouer en level 
 - le level peu faire à ce que le jeux se joue en speed
 - Restez en vie et collecter plus de points. 
+- Permettre la planification du chemin à bon escient, et le joueur se trouvera avec un nouveau score élevé!
 
 
 ## Versions
