@@ -16,6 +16,10 @@ Ce qui est nécessaire pour contribuer au dévéloppement de ce projet :
 
 J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et de distribuer le logiciel et son code source à quiconque et à n'importe quelle fin.
 
+## les améliorations à faires 
+Au fil du temps, le serpent s'allongera, il faut envisager de jouer en level 
+
+
 ## Versions
 Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le versionnage. Ci dessous les versions produites
 
