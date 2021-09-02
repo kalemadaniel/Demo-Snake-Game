@@ -21,6 +21,7 @@ J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et d
 - le level peu faire à ce que le jeux se joue en speed
 - Restez en vie et collecter plus de points. 
 - Permettre la planification du chemin à bon escient, et le joueur se trouvera avec un nouveau score élevé!
+- Faire à ce que le choix du jeu et les défis du jeu divettissent pendant des heures!
 
 
 ## Versions
