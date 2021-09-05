@@ -30,7 +30,7 @@ J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et d
 ## Versions
 Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le versionnage. Ci dessous les versions produites
 
-**Dernière version stable :** 1.1
+**Dernière version stable :** 1.2
 
 ## Auteurs
 
