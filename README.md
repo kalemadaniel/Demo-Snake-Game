@@ -9,7 +9,7 @@ Ce jeux de serpent est facile à contrôler et amusant pour les joueurs de tous 
 L'application nécessaire pour contribuer au dévéloppement de ce projet :
 
 - Netbeans (https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
-Je suis obligé de récu
+Je suis obligé de réc
 
 ## Jeu
 
