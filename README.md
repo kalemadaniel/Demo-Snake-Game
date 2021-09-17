@@ -26,7 +26,6 @@ J’accorde aux utilisateurs les droits d'utiliser, d'étudier, de modifier et d
 - Permettre la planification du chemin à bon escient, et le joueur se trouvera avec un nouveau score élevé!
 - Faire à ce que le choix du jeu et les défis du jeu divettissent pendant des heures!
 
-
 ## Versions
 Ceci correspond à un état donné de l'évolution du logiciel et j'utilise le versionnage. Ci dessous les versions produites
 
